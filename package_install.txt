@@ -1,0 +1,12 @@
+# 現在インストール済みのリストを書き出す
+# apm list --installed --bare > packages.txt
+
+# 現在インストール済みのパッケージにStarを付ける
+# API Token がいるので注意
+# apm star --installed
+
+# アンインストールしたパッケージのStarを外す(xxxはパッケージ名)
+# apm unstar xxxxx
+
+# Starの付いたパッケージを一括でインストール
+# apm stars --install
