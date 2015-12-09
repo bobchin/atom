@@ -1,0 +1,30 @@
+"*":
+  editor:
+    invisibles:
+      cr: false
+      eol: false
+    showInvisibles: true
+    softWrap: true
+    scrollPastEnd: true
+    preferredLineLength: 100
+    fontFamily: "\"Source Han Code JP\",\"Ricty\",\"Meiryo\""
+    softWrapAtPreferredLineLength: true
+  core:
+    themes: [
+      "dracula-ui"
+      "dracula-theme"
+    ]
+    audioBeep: false
+    destroyEmptyPanes: false
+    disabledPackages: [
+      "markdown-preview"
+      "script"
+    ]
+  "exception-reporting":
+    userId: "4133f97f-0081-c212-4fdf-81365f2d56e2"
+  welcome:
+    showOnStartup: false
+  "japanese-wrap":
+    characterWidth: {}
+  emmet: {}
+  docblockr: {}
